@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+}
+
+p { 
+	font-weight: bold;
+}
+
+header p { 
+	color: red;
+	font-weight: bold;
+}
+
+footer p { 
+	color: blue;
+	font-weight: bold;
+}
